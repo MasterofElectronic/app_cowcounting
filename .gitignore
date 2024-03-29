@@ -1,0 +1,11 @@
+venv/
+.env
+
+__pycache__/
+*.py[cod]
+
+.pytest_cache/
+
+settings.yaml
+client_secrets.json
+credentials_module.json
